@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "MY PIANO studio 2nd CONCERT",
         description: "2024년 12월 28일 토요일♡",
-        imageUrl: "https://i.imgur.com/bdEZl3S.png",
+        imageUrl: "https://i.imgur.com/TSV4g0T.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
